@@ -14,6 +14,7 @@ public class CarAgent : Agent
 
     [SerializeField] private TrackCheckpoints trackCheckPoints;
     [SerializeField] private Transform spawnPosition;
+    [SerializeField] private string lapTimeFileName;
 
     private CarController carController;
 
@@ -42,7 +43,7 @@ public class CarAgent : Agent
         collisionWallCounter = 0;
         
 
-        fileLapTimesName = Application.dataPath + "/laptimes/Combined25MBis";
+        fileLapTimesName = Application.dataPath + "/laptimes/"+ lapTimeFileName;
     }
 
     private void TrackCheckpoints_OnPlayerWrongCheckpoint(object sender, TrackCheckpoints.CarCheckpointEventArgs e)
