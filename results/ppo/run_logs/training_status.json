@@ -1,0 +1,29 @@
+{
+    "CarAgentMultipleCars2": {
+        "checkpoints": [
+            {
+                "steps": 95626,
+                "file_path": "results\\ppo\\CarAgentMultipleCars2\\CarAgentMultipleCars2-95626.onnx",
+                "reward": -70.00000467337668,
+                "creation_time": 1670885468.7279873,
+                "auxillary_file_paths": [
+                    "results\\ppo\\CarAgentMultipleCars2\\CarAgentMultipleCars2-95626.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 95626,
+            "file_path": "results\\ppo\\CarAgentMultipleCars2.onnx",
+            "reward": -70.00000467337668,
+            "creation_time": 1670885468.7279873,
+            "auxillary_file_paths": [
+                "results\\ppo\\CarAgentMultipleCars2\\CarAgentMultipleCars2-95626.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

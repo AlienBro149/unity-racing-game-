@@ -1,0 +1,929 @@
+{
+    "PaperTrainingImitation": {
+        "checkpoints": [
+            {
+                "steps": 249772,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-249772.onnx",
+                "reward": -12.63599990606308,
+                "creation_time": 1673015993.0780356,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-249772.pt"
+                ]
+            },
+            {
+                "steps": 499757,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-499757.onnx",
+                "reward": -14.47428570474897,
+                "creation_time": 1673016185.0666394,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-499757.pt"
+                ]
+            },
+            {
+                "steps": 749886,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-749886.onnx",
+                "reward": -27.350000143051147,
+                "creation_time": 1673016374.1116393,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-749886.pt"
+                ]
+            },
+            {
+                "steps": 999880,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-999880.onnx",
+                "reward": -7.495263062025371,
+                "creation_time": 1673016544.7921402,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-999880.pt"
+                ]
+            },
+            {
+                "steps": 1249904,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1249904.onnx",
+                "reward": -5.037777645720376,
+                "creation_time": 1673016715.9722514,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1249904.pt"
+                ]
+            },
+            {
+                "steps": 1499965,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1499965.onnx",
+                "reward": -5.974130219739417,
+                "creation_time": 1673016887.6722517,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1499965.pt"
+                ]
+            },
+            {
+                "steps": 1749986,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1749986.onnx",
+                "reward": -4.0496574566788865,
+                "creation_time": 1673017063.5857532,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1749986.pt"
+                ]
+            },
+            {
+                "steps": 1999939,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1999939.onnx",
+                "reward": -5.279130260149638,
+                "creation_time": 1673017238.081165,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-1999939.pt"
+                ]
+            },
+            {
+                "steps": 2249938,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2249938.onnx",
+                "reward": -6.9694443852813155,
+                "creation_time": 1673017410.0558891,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2249938.pt"
+                ]
+            },
+            {
+                "steps": 2499958,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2499958.onnx",
+                "reward": -5.205853627949226,
+                "creation_time": 1673017583.4746025,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2499958.pt"
+                ]
+            },
+            {
+                "steps": 2749752,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2749752.onnx",
+                "reward": -13.332999914884567,
+                "creation_time": 1673017762.3773139,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2749752.pt"
+                ]
+            },
+            {
+                "steps": 2999752,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2999752.onnx",
+                "reward": -6.956249907612801,
+                "creation_time": 1673017934.9493127,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-2999752.pt"
+                ]
+            },
+            {
+                "steps": 3249756,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3249756.onnx",
+                "reward": -46.9900004863739,
+                "creation_time": 1673018099.160313,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3249756.pt"
+                ]
+            },
+            {
+                "steps": 3499772,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3499772.onnx",
+                "reward": -47.99000060558319,
+                "creation_time": 1673018261.1323125,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3499772.pt"
+                ]
+            },
+            {
+                "steps": 3749788,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3749788.onnx",
+                "reward": -47.99000060558319,
+                "creation_time": 1673018424.3011298,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3749788.pt"
+                ]
+            },
+            {
+                "steps": 3999819,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3999819.onnx",
+                "reward": -15.974444217152065,
+                "creation_time": 1673018587.3406277,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-3999819.pt"
+                ]
+            },
+            {
+                "steps": 4249981,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4249981.onnx",
+                "reward": -13.798275685515897,
+                "creation_time": 1673018760.8001308,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4249981.pt"
+                ]
+            },
+            {
+                "steps": 4499778,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4499778.onnx",
+                "reward": -16.028420954942703,
+                "creation_time": 1673018938.9341953,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4499778.pt"
+                ]
+            },
+            {
+                "steps": 4749826,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4749826.onnx",
+                "reward": -21.449998753991995,
+                "creation_time": 1673019117.9861956,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4749826.pt"
+                ]
+            },
+            {
+                "steps": 4999902,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4999902.onnx",
+                "reward": -20.129998642664688,
+                "creation_time": 1673019297.6556869,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-4999902.pt"
+                ]
+            },
+            {
+                "steps": 5249983,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5249983.onnx",
+                "reward": null,
+                "creation_time": 1673019482.325444,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5249983.pt"
+                ]
+            },
+            {
+                "steps": 5499889,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5499889.onnx",
+                "reward": -12.989995837211609,
+                "creation_time": 1673019660.023279,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5499889.pt"
+                ]
+            },
+            {
+                "steps": 5749986,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5749986.onnx",
+                "reward": -9.149995704491934,
+                "creation_time": 1673019838.1695592,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5749986.pt"
+                ]
+            },
+            {
+                "steps": 5999952,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5999952.onnx",
+                "reward": -11.909996144473553,
+                "creation_time": 1673020015.5240242,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-5999952.pt"
+                ]
+            },
+            {
+                "steps": 6249851,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6249851.onnx",
+                "reward": -8.809995874762535,
+                "creation_time": 1673020193.4466305,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6249851.pt"
+                ]
+            },
+            {
+                "steps": 6499952,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6499952.onnx",
+                "reward": -5.979994714260101,
+                "creation_time": 1673020369.7034857,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6499952.pt"
+                ]
+            },
+            {
+                "steps": 6749839,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6749839.onnx",
+                "reward": -8.491662422815958,
+                "creation_time": 1673020546.6379964,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6749839.pt"
+                ]
+            },
+            {
+                "steps": 6999906,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6999906.onnx",
+                "reward": -4.463995051383972,
+                "creation_time": 1673020723.4993474,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-6999906.pt"
+                ]
+            },
+            {
+                "steps": 7249770,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7249770.onnx",
+                "reward": -8.076661864916483,
+                "creation_time": 1673020900.2071218,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7249770.pt"
+                ]
+            },
+            {
+                "steps": 7499997,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7499997.onnx",
+                "reward": -3.7085659972258975,
+                "creation_time": 1673021076.837622,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7499997.pt"
+                ]
+            },
+            {
+                "steps": 7749787,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7749787.onnx",
+                "reward": -5.359994865953922,
+                "creation_time": 1673021252.9882047,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7749787.pt"
+                ]
+            },
+            {
+                "steps": 7999835,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7999835.onnx",
+                "reward": 14.094006258249284,
+                "creation_time": 1673021429.403497,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-7999835.pt"
+                ]
+            },
+            {
+                "steps": 8249928,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8249928.onnx",
+                "reward": null,
+                "creation_time": 1673021617.686995,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8249928.pt"
+                ]
+            },
+            {
+                "steps": 8499995,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8499995.onnx",
+                "reward": 8.000006049871445,
+                "creation_time": 1673021848.4049954,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8499995.pt"
+                ]
+            },
+            {
+                "steps": 8749771,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8749771.onnx",
+                "reward": 4.4100062251091,
+                "creation_time": 1673022078.5239327,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8749771.pt"
+                ]
+            },
+            {
+                "steps": 8999806,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8999806.onnx",
+                "reward": 17.195005744695663,
+                "creation_time": 1673022300.8029451,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-8999806.pt"
+                ]
+            },
+            {
+                "steps": 9249791,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9249791.onnx",
+                "reward": 4.286672989527385,
+                "creation_time": 1673022485.7629442,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9249791.pt"
+                ]
+            },
+            {
+                "steps": 9499912,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9499912.onnx",
+                "reward": 4.310002475976944,
+                "creation_time": 1673022667.8809533,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9499912.pt"
+                ]
+            },
+            {
+                "steps": 9749917,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9749917.onnx",
+                "reward": 14.575006317347288,
+                "creation_time": 1673022849.9264534,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9749917.pt"
+                ]
+            },
+            {
+                "steps": 9999943,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9999943.onnx",
+                "reward": 9.558756027370691,
+                "creation_time": 1673023030.785684,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-9999943.pt"
+                ]
+            },
+            {
+                "steps": 10249849,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10249849.onnx",
+                "reward": 5.598005533218384,
+                "creation_time": 1673023213.6406853,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10249849.pt"
+                ]
+            },
+            {
+                "steps": 10499870,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10499870.onnx",
+                "reward": 21.976255416870117,
+                "creation_time": 1673023395.0643063,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10499870.pt"
+                ]
+            },
+            {
+                "steps": 10749927,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10749927.onnx",
+                "reward": 17.640005841851234,
+                "creation_time": 1673023577.028305,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10749927.pt"
+                ]
+            },
+            {
+                "steps": 10999911,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10999911.onnx",
+                "reward": 13.505006153136492,
+                "creation_time": 1673023757.970305,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-10999911.pt"
+                ]
+            },
+            {
+                "steps": 11249908,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11249908.onnx",
+                "reward": 2.3418238542296668,
+                "creation_time": 1673023938.9819453,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11249908.pt"
+                ]
+            },
+            {
+                "steps": 11499752,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11499752.onnx",
+                "reward": null,
+                "creation_time": 1673024128.5536497,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11499752.pt"
+                ]
+            },
+            {
+                "steps": 11749849,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11749849.onnx",
+                "reward": 10.910006374120712,
+                "creation_time": 1673024310.1019616,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11749849.pt"
+                ]
+            },
+            {
+                "steps": 11999833,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11999833.onnx",
+                "reward": 11.54000648856163,
+                "creation_time": 1673024490.4471655,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-11999833.pt"
+                ]
+            },
+            {
+                "steps": 12249974,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12249974.onnx",
+                "reward": -1.7749949470162392,
+                "creation_time": 1673024674.649539,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12249974.pt"
+                ]
+            },
+            {
+                "steps": 12499828,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12499828.onnx",
+                "reward": -0.5319944024085999,
+                "creation_time": 1673024855.5442684,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12499828.pt"
+                ]
+            },
+            {
+                "steps": 12749919,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12749919.onnx",
+                "reward": 10.88000296552976,
+                "creation_time": 1673025041.2117696,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12749919.pt"
+                ]
+            },
+            {
+                "steps": 12999989,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12999989.onnx",
+                "reward": null,
+                "creation_time": 1673025220.549126,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-12999989.pt"
+                ]
+            },
+            {
+                "steps": 13249816,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13249816.onnx",
+                "reward": 7.7271475451333185,
+                "creation_time": 1673025397.9691257,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13249816.pt"
+                ]
+            },
+            {
+                "steps": 13499920,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13499920.onnx",
+                "reward": 16.346255596727133,
+                "creation_time": 1673025573.5361257,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13499920.pt"
+                ]
+            },
+            {
+                "steps": 13749920,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13749920.onnx",
+                "reward": 11.54125645942986,
+                "creation_time": 1673025754.6641262,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13749920.pt"
+                ]
+            },
+            {
+                "steps": 13999996,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13999996.onnx",
+                "reward": 38.258005514740944,
+                "creation_time": 1673025938.3936255,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-13999996.pt"
+                ]
+            },
+            {
+                "steps": 14249834,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14249834.onnx",
+                "reward": 2.322862991264888,
+                "creation_time": 1673026118.350348,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14249834.pt"
+                ]
+            },
+            {
+                "steps": 14499944,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14499944.onnx",
+                "reward": null,
+                "creation_time": 1673026307.845762,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14499944.pt"
+                ]
+            },
+            {
+                "steps": 14749965,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14749965.onnx",
+                "reward": null,
+                "creation_time": 1673026487.2718623,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14749965.pt"
+                ]
+            },
+            {
+                "steps": 14999940,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14999940.onnx",
+                "reward": 21.26800608038902,
+                "creation_time": 1673026668.471089,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-14999940.pt"
+                ]
+            },
+            {
+                "steps": 15249745,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15249745.onnx",
+                "reward": null,
+                "creation_time": 1673026846.782589,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15249745.pt"
+                ]
+            },
+            {
+                "steps": 15499909,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15499909.onnx",
+                "reward": 14.340005710721016,
+                "creation_time": 1673027025.841089,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15499909.pt"
+                ]
+            },
+            {
+                "steps": 15749871,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15749871.onnx",
+                "reward": -0.26428175398281645,
+                "creation_time": 1673027203.9440894,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15749871.pt"
+                ]
+            },
+            {
+                "steps": 15999839,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15999839.onnx",
+                "reward": 2.936006152629852,
+                "creation_time": 1673027383.315089,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-15999839.pt"
+                ]
+            },
+            {
+                "steps": 16249977,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16249977.onnx",
+                "reward": 12.474006247520446,
+                "creation_time": 1673027569.6661592,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16249977.pt"
+                ]
+            },
+            {
+                "steps": 16499756,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16499756.onnx",
+                "reward": 25.22000502049923,
+                "creation_time": 1673027764.9327385,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16499756.pt"
+                ]
+            },
+            {
+                "steps": 16749820,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16749820.onnx",
+                "reward": 12.96429253901754,
+                "creation_time": 1673027957.9122398,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16749820.pt"
+                ]
+            },
+            {
+                "steps": 16999895,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16999895.onnx",
+                "reward": 3.3233372072378793,
+                "creation_time": 1673028149.1079524,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-16999895.pt"
+                ]
+            },
+            {
+                "steps": 17249905,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17249905.onnx",
+                "reward": 5.7340055227279665,
+                "creation_time": 1673028340.9624946,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17249905.pt"
+                ]
+            },
+            {
+                "steps": 17499945,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17499945.onnx",
+                "reward": 29.09091468019919,
+                "creation_time": 1673028532.3394706,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17499945.pt"
+                ]
+            },
+            {
+                "steps": 17749861,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17749861.onnx",
+                "reward": -1.9099971950054169,
+                "creation_time": 1673028733.0659842,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17749861.pt"
+                ]
+            },
+            {
+                "steps": 17999885,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17999885.onnx",
+                "reward": -6.739998161792755,
+                "creation_time": 1673028924.6165206,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-17999885.pt"
+                ]
+            },
+            {
+                "steps": 18249762,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18249762.onnx",
+                "reward": 17.703337738911312,
+                "creation_time": 1673029116.4270265,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18249762.pt"
+                ]
+            },
+            {
+                "steps": 18499952,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18499952.onnx",
+                "reward": 15.6800057888031,
+                "creation_time": 1673029308.5475254,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18499952.pt"
+                ]
+            },
+            {
+                "steps": 18749833,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18749833.onnx",
+                "reward": 8.844006115198136,
+                "creation_time": 1673029499.6190286,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18749833.pt"
+                ]
+            },
+            {
+                "steps": 18999804,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18999804.onnx",
+                "reward": 48.15000635385513,
+                "creation_time": 1673029691.3047726,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-18999804.pt"
+                ]
+            },
+            {
+                "steps": 19249805,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19249805.onnx",
+                "reward": 2.8562546893954277,
+                "creation_time": 1673029883.880161,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19249805.pt"
+                ]
+            },
+            {
+                "steps": 19499835,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19499835.onnx",
+                "reward": 3.9387540630996227,
+                "creation_time": 1673030075.2533457,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19499835.pt"
+                ]
+            },
+            {
+                "steps": 19749761,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19749761.onnx",
+                "reward": 2.6028611872877394,
+                "creation_time": 1673030267.7475245,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19749761.pt"
+                ]
+            },
+            {
+                "steps": 19999801,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19999801.onnx",
+                "reward": 3.6890938011082737,
+                "creation_time": 1673030459.4177487,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-19999801.pt"
+                ]
+            },
+            {
+                "steps": 20249782,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20249782.onnx",
+                "reward": -0.9059965749581654,
+                "creation_time": 1673030652.2599015,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20249782.pt"
+                ]
+            },
+            {
+                "steps": 20499754,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20499754.onnx",
+                "reward": 1.848826106856851,
+                "creation_time": 1673030844.2870934,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20499754.pt"
+                ]
+            },
+            {
+                "steps": 20749827,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20749827.onnx",
+                "reward": null,
+                "creation_time": 1673031045.1025932,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20749827.pt"
+                ]
+            },
+            {
+                "steps": 20999923,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20999923.onnx",
+                "reward": -6.784999698400497,
+                "creation_time": 1673031235.5706186,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-20999923.pt"
+                ]
+            },
+            {
+                "steps": 21249887,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21249887.onnx",
+                "reward": -5.6249980032444,
+                "creation_time": 1673031425.1543126,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21249887.pt"
+                ]
+            },
+            {
+                "steps": 21499929,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21499929.onnx",
+                "reward": -2.5469988971948623,
+                "creation_time": 1673031614.9118333,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21499929.pt"
+                ]
+            },
+            {
+                "steps": 21749873,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21749873.onnx",
+                "reward": -7.458570463316781,
+                "creation_time": 1673031804.735927,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21749873.pt"
+                ]
+            },
+            {
+                "steps": 21999777,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21999777.onnx",
+                "reward": -7.502307227024665,
+                "creation_time": 1673031994.0474272,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-21999777.pt"
+                ]
+            },
+            {
+                "steps": 22249949,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22249949.onnx",
+                "reward": -6.05825964393823,
+                "creation_time": 1673032183.7179027,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22249949.pt"
+                ]
+            },
+            {
+                "steps": 22499982,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22499982.onnx",
+                "reward": -8.30919903114438,
+                "creation_time": 1673032373.047905,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22499982.pt"
+                ]
+            },
+            {
+                "steps": 22749977,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22749977.onnx",
+                "reward": -8.191351090432018,
+                "creation_time": 1673032563.9186616,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22749977.pt"
+                ]
+            },
+            {
+                "steps": 22999999,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22999999.onnx",
+                "reward": -8.147871878552944,
+                "creation_time": 1673032755.133536,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-22999999.pt"
+                ]
+            },
+            {
+                "steps": 23249811,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23249811.onnx",
+                "reward": -8.290666193432278,
+                "creation_time": 1673032946.602134,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23249811.pt"
+                ]
+            },
+            {
+                "steps": 23499975,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23499975.onnx",
+                "reward": -7.425409573328788,
+                "creation_time": 1673033137.3101661,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23499975.pt"
+                ]
+            },
+            {
+                "steps": 23749853,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23749853.onnx",
+                "reward": null,
+                "creation_time": 1673033336.0525181,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23749853.pt"
+                ]
+            },
+            {
+                "steps": 23999855,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23999855.onnx",
+                "reward": -7.709090986035087,
+                "creation_time": 1673033529.9401965,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-23999855.pt"
+                ]
+            },
+            {
+                "steps": 24249901,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24249901.onnx",
+                "reward": -8.125333010156949,
+                "creation_time": 1673033708.3492544,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24249901.pt"
+                ]
+            },
+            {
+                "steps": 24499988,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24499988.onnx",
+                "reward": -7.42576899436804,
+                "creation_time": 1673033893.9902332,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24499988.pt"
+                ]
+            },
+            {
+                "steps": 24749951,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24749951.onnx",
+                "reward": -8.647691947909502,
+                "creation_time": 1673034073.6269493,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24749951.pt"
+                ]
+            },
+            {
+                "steps": 24999842,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24999842.onnx",
+                "reward": -7.8505402091588525,
+                "creation_time": 1673034252.8353505,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-24999842.pt"
+                ]
+            },
+            {
+                "steps": 25000098,
+                "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-25000098.onnx",
+                "reward": -7.8505402091588525,
+                "creation_time": 1673034252.881851,
+                "auxillary_file_paths": [
+                    "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-25000098.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000098,
+            "file_path": "results\\PaperResearchImitation\\PaperTrainingImitation.onnx",
+            "reward": -7.8505402091588525,
+            "creation_time": 1673034252.881851,
+            "auxillary_file_paths": [
+                "results\\PaperResearchImitation\\PaperTrainingImitation\\PaperTrainingImitation-25000098.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
